@@ -1,0 +1,9 @@
+# ninja log v6
+25	165	7546646106555482	Novella_autogen/timestamp	9079d6468c5583a9
+25	165	7546646106555482	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+25	165	7546646106555482	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+25	165	7546646106555482	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+494	2042	7546633875030114	CMakeFiles/Novella.dir/Novella_autogen/mocs_compilation.cpp.obj	efbbe870e9b1d376
+159	1752	7546642792519740	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+165	1661	7546646107960921	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+1661	1799	7546646122914128	Novella.exe	cdb12d148e1c47df
