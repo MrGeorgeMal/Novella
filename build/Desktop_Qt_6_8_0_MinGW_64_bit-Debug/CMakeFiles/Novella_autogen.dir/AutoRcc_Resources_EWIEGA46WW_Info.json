@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella",
+	"CMAKE_SOURCE_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/images/character/chrMain.png",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/images/character/chr1.png",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/images/background/bg1.jpg",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/cursors/pointer.png",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/cursors/link.png",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/fonts/Caveat.ttf",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/styles/DialogSpeakTextStyle.txt",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/styles/DialogSpeakBorderStyle.txt",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/styles/DialogNameBorderStyle.txt",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/styles/DialogNameTextStyle.txt",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/styles/DialogButtonStyle.txt"
+	],
+	"LOCK_FILE" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Novella_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Novella_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/mrmag/Documents/Qt Projects/Novella/Resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -529,15 +529,23 @@ Novella_autogen/timestamp: \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/CMakeLists.txt \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/Resources.qrc \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/moc_predefs.h \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/initscenes.cpp \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/main.cpp \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/mainwindow.cpp \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/mainwindow.h \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellagame.cpp \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellagame.h \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellaimage.cpp \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellaimage.h \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellascene.cpp \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellascene.h \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellatools.cpp \
+	C:/Users/mrmag/Documents/Qt\ Projects/Novella/novellatools.h \
 	C:/Users/mrmag/Documents/Qt\ Projects/Novella/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

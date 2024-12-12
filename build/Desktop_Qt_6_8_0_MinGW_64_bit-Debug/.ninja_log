@@ -1,16 +1,74 @@
 # ninja log v6
-25	165	7546646106555482	Novella_autogen/timestamp	9079d6468c5583a9
-25	165	7546646106555482	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
-25	165	7546646106555482	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
-25	165	7546646106555482	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
-494	2042	7546633875030114	CMakeFiles/Novella.dir/Novella_autogen/mocs_compilation.cpp.obj	efbbe870e9b1d376
-159	1752	7546642792519740	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
-165	1661	7546646107960921	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
-1661	1799	7546646122914128	Novella.exe	cdb12d148e1c47df
-13	186	7546662626901893	Novella_autogen/timestamp	9079d6468c5583a9
-13	186	7546662626901893	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
-13	186	7546662626901893	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
-13	186	7546662626901893	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
-192	244	7546662628678417	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
-187	1703	7546662628641017	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
-1703	1861	7546662643800427	Novella.exe	452a8677a8e7590d
+15	223	7556346946404885	Novella_autogen/timestamp	9079d6468c5583a9
+15	223	7556346946404885	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+15	223	7556346946404885	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+15	223	7556346946404885	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+164	1923	7553108189156508	CMakeFiles/Novella.dir/novellaimage.cpp.obj	c882bb21a3cd4977
+151	1910	7551164264926536	CMakeFiles/Novella.dir/Novella_autogen/mocs_compilation.cpp.obj	efbbe870e9b1d376
+160	645	7556306664954358	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/EWIEGA46WW/qrc_Resources.cpp	d1ac40984260a73a
+225	3821	7556346948497810	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+231	3409	7556346948557941	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+3848	4248	7556346984725528	Novella.exe	8f8cb17495576ba1
+236	3848	7556346948603058	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+160	645	7556306664954358	Novella_autogen/EWIEGA46WW/qrc_Resources.cpp	d1ac40984260a73a
+652	11657	7556306665120422	CMakeFiles/Novella.dir/Novella_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	a7f26ae6937c4400
+21	653	7557178992095364	build.ninja	c7cd1c97bb3d3d5f
+225	2697	7553089070241121	CMakeFiles/Novella.dir/imagelabel.cpp.obj	c0e7ae54e853d5c5
+159	2162	7552520489198990	CMakeFiles/Novella.dir/novelladialogbox.cpp.obj	93180e0be5b1fa03
+168	1813	7552021510310472	CMakeFiles/Novella.dir/novellabutton.cpp.obj	69bb39e4f2636810
+241	3684	7556346948662041	CMakeFiles/Novella.dir/novellagame.cpp.obj	e2a432a248c3a844
+169	2062	7556334835777766	CMakeFiles/Novella.dir/novellatools.cpp.obj	a9aa89fe06d43136
+42	194	7557188556676220	Novella_autogen/timestamp	9079d6468c5583a9
+42	194	7557188556676220	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+42	194	7557188556676220	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+42	194	7557188556676220	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+199	2321	7557188558235424	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+210	2460	7557188558353855	CMakeFiles/Novella.dir/initscenes.cpp.obj	5cc36051bcdc0cf9
+195	2493	7557188558201678	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+205	2551	7557188558308823	CMakeFiles/Novella.dir/novellagame.cpp.obj	e2a432a248c3a844
+202	2587	7557188558270812	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+2587	3095	7557188582118397	Novella.exe	f681fc46e59e28bd
+24	146	7557192555366352	Novella_autogen/timestamp	9079d6468c5583a9
+24	146	7557192555366352	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+24	146	7557192555366352	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+24	146	7557192555366352	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+151	1861	7557192556630027	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+159	2080	7557192556712363	CMakeFiles/Novella.dir/initscenes.cpp.obj	5cc36051bcdc0cf9
+147	2163	7557192556596024	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+156	2174	7557192556676624	CMakeFiles/Novella.dir/novellagame.cpp.obj	e2a432a248c3a844
+153	2219	7557192556655882	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+2219	2545	7557192577304651	Novella.exe	f681fc46e59e28bd
+24	149	7557194042754510	Novella_autogen/timestamp	9079d6468c5583a9
+24	149	7557194042754510	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+24	149	7557194042754510	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+24	149	7557194042754510	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+153	1868	7557194044040689	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+163	2097	7557194044137297	CMakeFiles/Novella.dir/initscenes.cpp.obj	5cc36051bcdc0cf9
+150	2144	7557194044010682	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+159	2206	7557194044107289	CMakeFiles/Novella.dir/novellagame.cpp.obj	e2a432a248c3a844
+156	2230	7557194044075750	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+2231	2554	7557194064814422	Novella.exe	f681fc46e59e28bd
+24	149	7557195072502546	Novella_autogen/timestamp	9079d6468c5583a9
+24	149	7557195072502546	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+24	149	7557195072502546	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+24	149	7557195072502546	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+149	1713	7557195073756606	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+153	2026	7557195073786712	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+2026	2346	7557195092525851	Novella.exe	f681fc46e59e28bd
+26	149	7557198712486119	Novella_autogen/timestamp	9079d6468c5583a9
+26	149	7557198712486119	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+26	149	7557198712486119	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+26	149	7557198712486119	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+153	1869	7557198713753755	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+163	2008	7557198713843820	CMakeFiles/Novella.dir/initscenes.cpp.obj	5cc36051bcdc0cf9
+150	2072	7557198713712071	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+25	149	7557198881914779	Novella_autogen/timestamp	9079d6468c5583a9
+25	149	7557198881914779	Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+25	149	7557198881914779	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/timestamp	9079d6468c5583a9
+25	149	7557198881914779	C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Novella_autogen/mocs_compilation.cpp	9079d6468c5583a9
+153	1886	7557198883194562	CMakeFiles/Novella.dir/mainwindow.cpp.obj	c18c27af44ce3abe
+163	2087	7557198883297013	CMakeFiles/Novella.dir/initscenes.cpp.obj	5cc36051bcdc0cf9
+150	2138	7557198883166021	CMakeFiles/Novella.dir/main.cpp.obj	feb7dde52b9360b4
+157	2145	7557198883223278	CMakeFiles/Novella.dir/novellascene.cpp.obj	c18d53737963a6e9
+160	2192	7557198883256351	CMakeFiles/Novella.dir/novellagame.cpp.obj	e2a432a248c3a844
+2192	2513	7557198903576373	Novella.exe	f681fc46e59e28bd

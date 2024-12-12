@@ -257,7 +257,8 @@
 		"C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
 		"C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"C:/Users/mrmag/Documents/Qt Projects/Novella/Resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/mrmag/Documents/Qt Projects/Novella",
 	"CROSS_CONFIG" : false,
@@ -272,9 +273,27 @@
 			null
 		],
 		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellagame.h",
+			"MU",
+			"EWIEGA46WW/moc_novellagame.cpp",
+			null
+		],
+		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellaimage.h",
+			"MU",
+			"EWIEGA46WW/moc_novellaimage.cpp",
+			null
+		],
+		[
 			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellascene.h",
 			"MU",
 			"EWIEGA46WW/moc_novellascene.cpp",
+			null
+		],
+		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellatools.h",
+			"MU",
+			"EWIEGA46WW/moc_novellatools.cpp",
 			null
 		]
 	],
@@ -349,6 +368,11 @@
 	"SETTINGS_FILE" : "C:/Users/mrmag/Documents/Qt Projects/Novella/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Novella_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/initscenes.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/mrmag/Documents/Qt Projects/Novella/main.cpp", "MU", null ],
 		[
 			"C:/Users/mrmag/Documents/Qt Projects/Novella/mainwindow.cpp",
@@ -356,7 +380,22 @@
 			null
 		],
 		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellagame.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellaimage.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellascene.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/mrmag/Documents/Qt Projects/Novella/novellatools.cpp",
 			"MU",
 			null
 		]

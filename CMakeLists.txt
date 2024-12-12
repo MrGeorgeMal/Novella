@@ -24,6 +24,15 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
         novellascene.h novellascene.cpp
+        Resources.qrc
+
+
+
+        novellagame.h novellagame.cpp
+        novellatools.h novellatools.cpp
+        novellaimage.h novellaimage.cpp
+        initscenes.cpp
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Novella APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

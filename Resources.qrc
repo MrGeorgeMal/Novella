@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/background/bg1.jpg</file>
+        <file>images/character/chrMain.png</file>
+        <file>images/character/chr1.png</file>
+        <file>styles/DialogButtonStyle.txt</file>
+        <file>styles/DialogNameBorderStyle.txt</file>
+        <file>styles/DialogNameTextStyle.txt</file>
+        <file>styles/DialogSpeakBorderStyle.txt</file>
+        <file>styles/DialogSpeakTextStyle.txt</file>
+        <file>fonts/Caveat.ttf</file>
+        <file>cursors/link.png</file>
+        <file>cursors/pointer.png</file>
+    </qresource>
+</RCC>
